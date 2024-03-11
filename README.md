@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I have been working in IT for more than 20 years.
+Scripting and programming have always been part of my everyday work life.
+
+- 🔭 I’m currently working on Angular projects - be excited 😄
+
+
 <!--
 **sjaroni/sjaroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
