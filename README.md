@@ -5,7 +5,7 @@ Scripting and programming have always been part of my everyday work life.
 
 - 🔭 I’m currently working on Angular 17 projects - be excited 😄
 - Please have a look at my homepage: <a href="https://stefan-jaroni.com">https://stefan-jaroni.com</a>
-- In the past I have dabbled with PHP and MySQL
+- In the past I´ve dabbled with PHP and MySQL
 
 <!--
 **sjaroni/sjaroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
