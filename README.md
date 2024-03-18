@@ -4,6 +4,7 @@ I have been working in IT for more than 20 years.
 Scripting and programming have always been part of my everyday work life.
 
 - 🔭 I’m currently working on Angular 17 projects - be excited 😄
+- Please have a look at my homepage: <a href="https://stefan-jaroni.com">[homepage](https://stefan-jaroni.com)</a>
 - In the past I have dabbled with PHP and MySQL
 
 <!--
