@@ -3,7 +3,7 @@
 I have been working in IT for more than 20 years.
 Scripting and programming have always been part of my everyday work life.
 
-- 🔭 I’m currently working on Angular projects - be excited 😄
+- 🔭 I’m currently working on Angular 17 projects - be excited 😄
 - In the past I have dabbled with PHP and MySQL
 
 <!--
