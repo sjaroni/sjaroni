@@ -5,6 +5,8 @@ Scripting and programming have always been part of my everyday work life.
 
 - 🔭 I’m currently working on Angular 17 projects - be excited 😄
 - Please have a look at my homepage: <a href="https://stefan-jaroni.com">https://stefan-jaroni.com</a>
+
+- ... also trying to get proficient in other frameworks like React and Vue.js
 - In the past I´ve dabbled with PHP and MySQL
 
 <!--
