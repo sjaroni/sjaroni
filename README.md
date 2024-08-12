@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have been working in IT for more than 20 years.
+I have been working in IT for more than 21 years.
 Scripting and programming have always been part of my everyday work life.
 
 - 🔭 I’m currently working on Angular 17 projects - be excited 😄
