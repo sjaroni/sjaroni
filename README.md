@@ -3,7 +3,7 @@
 I’ve been working in IT for more than 21 years.
 Scripting and programming have always been part of my everyday work life.
 
-- 🔭 I’m currently working on Angular 17 projects - be excited 😄
+- 🔭 I’m currently working on Angular projects - be excited 😄
 - Please have a look at my homepage: <a href="https://stefan-jaroni.com">https://stefan-jaroni.com</a>
 
 - ... also trying to get proficient in other frameworks like React and Vue.js
